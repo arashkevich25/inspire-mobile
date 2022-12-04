@@ -1,0 +1,1 @@
+export { JoinToClubAdditionalData } from './JoinToClubAdditionalData';

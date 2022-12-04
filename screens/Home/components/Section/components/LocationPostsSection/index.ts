@@ -1,0 +1,1 @@
+export { LocationPostsSection } from './LocationPostsSection';

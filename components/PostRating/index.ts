@@ -1,0 +1,1 @@
+export { PostRating } from './PostRating';

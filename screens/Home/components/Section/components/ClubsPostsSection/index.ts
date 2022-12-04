@@ -1,0 +1,1 @@
+export { ClubsPostsSection } from './ClubsPostsSection';

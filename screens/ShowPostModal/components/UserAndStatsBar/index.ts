@@ -1,0 +1,1 @@
+export { UserAndStatsBar } from './UserAndStatsBar';

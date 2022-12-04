@@ -1,0 +1,1 @@
+export { PostModalSkeletonLoader } from './SkeletonLoader';

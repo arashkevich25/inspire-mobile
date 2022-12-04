@@ -1,0 +1,1 @@
+export { PostsSectionLastAdded } from './PostsSectionLastAdded';

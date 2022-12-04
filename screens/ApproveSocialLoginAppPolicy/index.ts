@@ -1,0 +1,1 @@
+export { ApproveSocialLoginAppPolicy } from './ApproveSocialLoginAppPolicy';

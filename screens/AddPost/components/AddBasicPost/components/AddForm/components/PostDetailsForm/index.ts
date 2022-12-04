@@ -1,0 +1,1 @@
+export { PostDetailsForm } from './PostDetailsForm';

@@ -1,0 +1,1 @@
+export { MedalsList } from './MedalsList';

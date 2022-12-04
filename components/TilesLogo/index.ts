@@ -1,0 +1,1 @@
+export { TilesLogo } from './TilesLogo';

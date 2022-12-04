@@ -1,0 +1,1 @@
+export { PostsSectionWithoutShowMore } from './PostsSectionWithoutShowMore';

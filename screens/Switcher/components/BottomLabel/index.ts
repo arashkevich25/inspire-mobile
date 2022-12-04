@@ -1,0 +1,1 @@
+export { BottomLabel } from './BottomLabel';

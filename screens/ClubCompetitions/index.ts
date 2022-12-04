@@ -1,0 +1,1 @@
+export { ClubCompetitions } from './ClubCompetitions';

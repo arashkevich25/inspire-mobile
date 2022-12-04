@@ -1,0 +1,1 @@
+export { CompetitionDetails } from './CompetitionDetails';

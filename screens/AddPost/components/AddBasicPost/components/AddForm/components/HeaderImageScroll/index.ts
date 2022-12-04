@@ -1,0 +1,1 @@
+export { HeaderImageScroll } from './HeaderImageScroll';

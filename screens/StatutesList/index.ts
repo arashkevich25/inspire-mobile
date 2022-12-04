@@ -1,0 +1,1 @@
+export { StatutesList } from './StatutesList';

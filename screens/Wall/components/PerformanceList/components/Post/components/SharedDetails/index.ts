@@ -1,0 +1,1 @@
+export { SharedDetails } from './SharedDetails';

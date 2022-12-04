@@ -1,0 +1,1 @@
+export { PostsByTag } from './PostsByTag';

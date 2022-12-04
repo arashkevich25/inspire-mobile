@@ -1,0 +1,1 @@
+export { ChoosePersonToGroup } from './ChoosePersonToGroup';

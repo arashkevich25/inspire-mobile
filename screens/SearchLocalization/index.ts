@@ -1,0 +1,1 @@
+export { SearchLocalization } from './SearchLocalization';

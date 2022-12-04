@@ -1,0 +1,1 @@
+export { StatuteDetails } from './StatuteDetails';

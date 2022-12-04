@@ -1,0 +1,1 @@
+export { InspireButton } from './InspireButton';

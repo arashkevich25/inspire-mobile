@@ -1,0 +1,1 @@
+export { AvatarNameField } from './AvatarNameField';

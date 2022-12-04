@@ -1,0 +1,1 @@
+export { PostsSectionByCategory } from './PostsSectionByCategory';

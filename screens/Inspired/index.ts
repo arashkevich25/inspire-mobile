@@ -1,0 +1,1 @@
+export { Inspired } from './Inspired';

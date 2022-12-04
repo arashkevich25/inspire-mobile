@@ -1,0 +1,1 @@
+export { InspirationsPostsSection } from './InspirationsPostsSection';

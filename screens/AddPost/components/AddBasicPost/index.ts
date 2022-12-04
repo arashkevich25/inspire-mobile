@@ -1,0 +1,1 @@
+export { AddBasicPost } from './AddBasicPost';
